@@ -1,16 +1,14 @@
-# cappuccino
+# FlutterUI - Cappuccino
 
-A new Flutter project.
+A new Flutter app showcasing a couple of cool looking screens.
 
-## Getting Started
+## How do I build this ? - https://youtu.be/g0tYIdIYUyY 
 
-This project is a starting point for a Flutter application.
+Design credit - https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20221014-034717](https://user-images.githubusercontent.com/8137504/195721249-b335eb3f-8357-445c-966e-331e750c8a6d.png)
+![Screenshot_20221014-034736](https://user-images.githubusercontent.com/8137504/195721219-63a1fd84-d9c6-4019-a564-1f46edc13753.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
